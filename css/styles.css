@@ -16,7 +16,7 @@
   .studio{
     color: #2e2f42;
   }
-  .heder .heder:focus{
+  .heder {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -28,20 +28,47 @@
     color: #404bbf;
   }
   .heder:focus{
-    color: #404bbf ;
+    color: #404bbf;
   }
   .address{
     font-style: normal;
   }
-  .mail_tell{
+  .mail_tel{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em ;
-    color: #434455;
+    letter-spacing: 0.02em;
+    color:#434455;
   }
-  .mail_tell:hover{
-    color: #404bbf 
+  .mail_tel:hover{
+    color: #404bbf;
   }
-  .mail_tell:focus{
-    color: #404bbf ;
+  .mail_tel:focus{
+    color: #404bbf;
+  }
+  .section1{
+    background-color: #2e2f42;
+  }
+  .h1{
+    font-size: 56px;
+    line-height: 1.07;
+  
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff
+  }
+  .order_buton{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5 ;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  .order_buton:hover{
+    background-color: #404BBF
+  }
+  .order_buton:focus{
+    background-color: #404BBF;
   }
