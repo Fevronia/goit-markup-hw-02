@@ -72,3 +72,61 @@
   .order_buton:focus{
     background-color: #404BBF;
   }
+  .section_two_heders{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  }
+  .section_two_p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:  #434455 ;
+  }
+  .section_three{
+    background-color: #F4F4FD;
+  }
+  .section_three_heder{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+  }
+  .section_three_images{
+    background-color: #FFFFFF;
+
+  }
+  .section_three_heders{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42 ;
+  }
+  .section_three_p{
+    font-size: 16px;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em;
+    color:#434455 ;
+  }
+  .section_four_headers{
+    font-weight: 500;
+    font-size: 20px ;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42 ;
+
+  }
+  .footer{
+    background-color: #2e2f42;
+
+  }
+  .footer_p{
+    line-height: 1.5;
+    color: #F4F4FD; 
+    letter-spacing: 0.02em ;
+  }
